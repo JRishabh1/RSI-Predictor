@@ -7,7 +7,7 @@ Data obtained from https://physionet.org/content/tappy/1.0.0/
 
 About: 
 
-This is a program intending to create a meta-predictor for high detection of Parkinson's Disease using only keystroke data. 
+This is a program intending to create a meta-predictor for high detection of Parkinson's Disease using only keystroke data written in python. 
 
 How to use: 
 
