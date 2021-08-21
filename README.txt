@@ -2,7 +2,6 @@ Date published: 27 June 2020
 
 Code Authors: Rishabh Jain and Dr Chad Curtis. 
 
-Based on High-accuracy detection of early Parkinson's Disease paper by Warwick R. Adams available here: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188226#abstract0
 Data obtained from https://physionet.org/content/tappy/1.0.0/ 
 
 About: 
