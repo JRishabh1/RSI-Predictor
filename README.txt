@@ -20,6 +20,4 @@ End:
 
 Please note that this program works best in Google Collab as it was originally written in that platform. I will be creating desktop versions later as soon as possible. 
 
-This program is also incomplete as of 27 June 2020 as I plan to add k folds cross validation to this.
-
 If you encounter any problems, please shoot me an email at rishabhjain68@gmail.com. I'll try to get back to you as soon as possible.
